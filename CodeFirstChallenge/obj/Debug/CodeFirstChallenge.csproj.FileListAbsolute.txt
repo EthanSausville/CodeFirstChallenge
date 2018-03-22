@@ -1,0 +1,11 @@
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\CodeFirstChallenge.exe.config
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\CodeFirstChallenge.exe
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\CodeFirstChallenge.pdb
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.exe
+C:\Users\Ethan\Documents\My Code\CodeFirstChallenge\CodeFirstChallenge\obj\Debug\CodeFirstChallenge.pdb
